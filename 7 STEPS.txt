@@ -1,0 +1,7 @@
+Work an example yourself
+Write down exactly what you did
+Create an algorithm after working multiple examples
+Test your algorithm by hand
+Translate your algorithm to code
+Find errors in your code by running test cases
+Fix errors in your code
